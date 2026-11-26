@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import { ArrowRight, ArrowUpRight, Clock3, Heart, MapPin, Scissors, Sparkles, Wallet, Instagram } from "lucide-react";
+import { ArrowRight, ArrowUpRight, Check, Clock3, Heart, MapPin, Scissors, Sparkles, Wallet, Instagram } from "lucide-react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import HelixRibbonHero from "@/components/ui/helix-ribbon-hero";
